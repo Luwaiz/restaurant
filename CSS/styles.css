@@ -61,6 +61,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+.overflow-hide{
+    overflow: hidden;
+}
 .text-xxl{
     font-size: 3.5em;
     font-weight: 545;
@@ -121,7 +124,13 @@ body{
     background-color: #99606e !important;
     color: var(--text-color1) !important;
 }
-
+.img-height{
+    height: 300px !important;
+}
+.wdQ{
+    width: 25%;
+    height: 100%;
+}
 .wd1{
     height: 400px !important;
     color: var(--text-color1) !important;
@@ -140,6 +149,9 @@ body{
 }
 .pxd{
     padding: 100px  0px !important;
+}
+.mgH-auto{
+    margin: 40px 40% !important; 
 }
 .card-container{
     justify-content: space-around;
