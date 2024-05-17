@@ -24,7 +24,7 @@
 
 ## Description
 
-This project is an identical clone of the landing page for the Soul Kitchen website. It includes some minimal features which I was able to implement using Bootstrap while maintaining the overall appearance of the website using cascading style sheets(CSS). Soul Kitchen offers an exquisite dining experience blending classical charm with contemporary sophistication. The menu, crafted by a world-renowned chef, features innovative French,korean and English cuisine using the finest ingredients. With impeccable service and an extensive wine selection, each dish is a masterpiece presented with artistic flair.
+This project is an identical clone of the landing page for the Soul Kitchen website. It includes some minimal features which I was able to implement using Bootstrap which provides both CSS and JS files while maintaining the overall appearance of the website by manipulating with my cascading style sheets(CSS). Soul Kitchen offers an exquisite dining experience blending classical charm with contemporary sophistication. The menu, crafted by a world-renowned chef, features innovative French,korean and English cuisine using the finest ingredients. With impeccable service and an extensive wine selection, each dish is a masterpiece presented with artistic flair. The ambiance, complete with live piano music creates an unforgettable culinary journey. Dining at Soul Kitchen is an euphoric experience.
 
 ## Installation
 
